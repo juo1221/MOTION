@@ -112,7 +112,7 @@
 
 창의 오른쪽에 있는 x 버튼을 클릭하면 해당하는 창이 삭제됩니다. 
 
-<img width="1180" alt="10" src="https://user-images.githubusercontent.com/79268108/126638427-1dcc7d78-53f4-4a15-a2fa-6f568da392e5.png">
+<img width="967" alt="스크린샷 2021-08-11 오후 2 15 30" src="https://user-images.githubusercontent.com/79268108/128973357-fe922e01-0d70-4867-8374-46febff9227b.png">
 
 모든 창 삭제 시 처음화면과 같이 나타납니다. 
 
